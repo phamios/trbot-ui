@@ -1,0 +1,10 @@
+.snipe-log-box {
+	border-radius: $border-radius;
+	border-color: $border-color;
+	background-color: $gray-200;
+	padding: 10px 15px;
+	color: $dark;
+	width: 100%;
+	height: 300px;
+	overflow-y: auto;
+}
